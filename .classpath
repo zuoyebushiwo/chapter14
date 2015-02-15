@@ -14,9 +14,7 @@
 	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.web.container"/>
 	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.module.container"/>
 	<classpathentry kind="lib" path="war/WEB-INF/lib/xstream-1.4.jar"/>
-	<classpathentry exported="true" kind="lib" path="C:/Users/zhangxuej/.gradle/caches/modules-2/files-2.1/log4j/log4j/1.2.17/5af35056b4d257e4b64b9e8069c0746e8b08629f/log4j-1.2.17.jar" sourcepath="C:/Users/zhangxuej/.gradle/caches/modules-2/files-2.1/log4j/log4j/1.2.17/677abe279b68c5e7490d6d50c6951376238d7d3e/log4j-1.2.17-sources.jar"/>
 	<classpathentry kind="lib" path="war/WEB-INF/lib/jettison-1.3.jar"/>
-	<classpathentry exported="true" kind="lib" path="C:/Users/zhangxuej/.gradle/caches/modules-2/files-2.1/org.codehaus.castor/castor-xml/1.3.3/1072663e1b7463f6452eba51749bec5526f4883d/castor-xml-1.3.3.jar" sourcepath="C:/Users/zhangxuej/.gradle/caches/modules-2/files-2.1/org.codehaus.castor/castor-xml/1.3.3/dcf7e88220702b374629e6c3eed726fe01e4fbb0/castor-xml-1.3.3-sources.jar"/>
 	<classpathentry combineaccessrules="false" kind="src" path="/spring-aop"/>
 	<classpathentry combineaccessrules="false" kind="src" path="/spring-aspects"/>
 	<classpathentry combineaccessrules="false" kind="src" path="/spring-beans"/>
